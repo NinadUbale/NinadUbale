@@ -40,10 +40,8 @@
 </p>
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats-f6me1earz-ninad-ubales-projects.vercel.app
-/api?username=NinadUbale" />
-  <img height="170" src="https://github-readme-stats-f6me1earz-ninad-ubales-projects.vercel.app
-/api/top-langs/?username=NinadUbale" />
+  <img height="170" src="https://github-readme-stats-sand-mu-34.vercel.app/api?username=NinadUbale" />
+  <img height="170" src="https:/github-readme-stats-sand-mu-34.vercel.app/api/top-langs/?username=NinadUbale" />
 </p>
 ---
 
