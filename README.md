@@ -36,12 +36,14 @@
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-activity-graph-bys71y5o2-ninad-ubales-projects.vercel.app/graph?username=NinadUbale&theme=react-dark" />
+  <img src="https://github-readme-activity-graph-enujx5swc-ninad-ubales-projects.vercel.app/graph?username=NinadUbale" />
 </p>
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats-by8bmlnw4-ninad-ubales-projects.vercel.app/api?username=NinadUbale&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="170" src="https://github-readme-stats-by8bmlnw4-ninad-ubales-projects.vercel.app/api/top-langs/?username=NinadUbale&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://github-readme-stats-f6me1earz-ninad-ubales-projects.vercel.app
+/api?username=NinadUbale" />
+  <img height="170" src="https://github-readme-stats-f6me1earz-ninad-ubales-projects.vercel.app
+/api/top-langs/?username=NinadUbale" />
 </p>
 ---
 
