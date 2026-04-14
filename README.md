@@ -36,7 +36,7 @@
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-activity-graph-weld-kappa.vercel.app/graph?username=NinadUbale&theme=react-dark" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=NinadUbale&theme=react-dark" />
 </p>
 
 <p align="center">
