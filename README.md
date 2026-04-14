@@ -36,16 +36,16 @@
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NinadUbale&theme=github_dark&v=2" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NinadUbale&theme=github_dark" />
 </p>
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=NinadUbale&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400&v=2"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NinadUbale&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400&v=2"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=NinadUbale&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NinadUbale&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=NinadUbale&theme=react-dark&hide_border=true&v=2"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=NinadUbale&theme=react-dark" />
 </p>
 ---
 
