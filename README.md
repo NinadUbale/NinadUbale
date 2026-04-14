@@ -36,7 +36,7 @@
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-activity-graph-enujx5swc-ninad-ubales-projects.vercel.app/graph?username=NinadUbale" />
+  <img src="https://github-readme-activity-graph-9drv68ffz-ninad-ubales-projects.vercel.app/graph?username=NinadUbale" />
 </p>
 
 <p align="center">
