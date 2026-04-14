@@ -40,8 +40,8 @@
 </p>
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats-sand-mu-34.vercel.app/api?username=NinadUbale" />
-  <img height="170" src="https:/github-readme-stats-sand-mu-34.vercel.app/api/top-langs/?username=NinadUbale" />
+  <img height="170" src="https://github-readme-stats-sand-mu-34.vercel.app/api?username=NinadUbale&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://github-readme-stats-sand-mu-34.vercel.app/api/top-langs/?username=NinadUbale&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 ---
 
