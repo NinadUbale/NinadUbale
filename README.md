@@ -62,8 +62,6 @@ Working on MERN stack backend architecture with focus on performance, scalabilit
 
 ---
 
----
-
 ## 🛠️ TECH STACK & EXPERTISE
 
 ### **Languages**
