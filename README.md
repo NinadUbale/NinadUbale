@@ -42,34 +42,19 @@
 
 ## 👨‍💻 ABOUT ME
 
-<table>
-  <tr>
-    <td width="55%">
-      
-### Who Am I?
+Hi! I'm **Ninad**, a **Backend Engineer** passionate about building **scalable, performant systems**. 
 
-I'm a **Backend Engineer** passionate about building **scalable, performant systems** that solve real-world problems.
+### 🎯 What I Do:
+- 🚀 **Design & Deploy** production REST APIs (10+)
+- ⚡ **Optimize Performance** - MongoDB queries, caching strategies
+- 🗄️ **Database Architecture** - Schema design, indexing
+- 🔍 **Debug Like a Detective** - Root cause analysis
 
-#### 🎯 My Strengths:
-- 🚀 **API Architect**: Designed 10+ production REST APIs
-- ⚡ **Performance Expert**: 40% optimization through smart caching
-- 🗄️ **Database Wizard**: MongoDB query optimization specialist
-- 🔍 **Problem Solver**: Root cause analysis & debugging master
-- 🏗️ **System Designer**: Scalability for 500+ concurrent users
-- 🤖 **AI Enthusiast**: GenAI integration & prompt engineering
+### 💼 Currently:
+**Software Developer Intern** @ **Techonsy Software Pvt. Ltd.** (Jan 2026 - Present)
 
-#### 🎓 Education:
+### 🎓 Education:
 **B.E. Electronics & Telecommunication** | PVPIT, Pune (2022-2026)
-
-#### 💼 Currently:
-**Software Developer Intern** @ **Techonsy Software Pvt. Ltd** (Jan 2026 - Present)
-
-    </td>
-    <td width="45%">
-      <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" alt="Developer"/>
-    </td>
-  </tr>
-</table>
 
 ---
 
