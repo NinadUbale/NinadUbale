@@ -83,12 +83,6 @@
 - 🚀 Built AI system in **24-hour sprint**
 
 ---
-
-## 🐍 Contribution Snake
-
-![Snake animation](https://github.com/NinadUbale/NinadUbale/blob/output/github-contribution-grid-snake.svg)
----
-
 ## 📈 Profile Insights
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=NinadUbale&label=Profile%20views&color=0e75b6&style=flat"/>
